@@ -36,13 +36,13 @@
 // }
 
 
-string value = "abc123";
-char[] valueArray = value.ToCharArray();
-// Console.WriteLine(valueArray);
-Array.Reverse(valueArray);
-// string result = new string(valueArray);
-string result = String.Join("$", valueArray);
-Console.WriteLine(result);
+// string value = "abc123";
+// char[] valueArray = value.ToCharArray();
+// // Console.WriteLine(valueArray);
+// Array.Reverse(valueArray);
+// // string result = new string(valueArray);
+// string result = String.Join("$", valueArray);
+// Console.WriteLine(result);
 
 // string[] items = result.Split(',');
 // foreach (string item in items)
@@ -51,3 +51,20 @@ Console.WriteLine(result);
 // }
 
 
+string pangram = "The quick brown fox jumps over the lazy dog";
+
+// 1. store all the words of the sentence in an array
+string[] words = pangram.Split(' ');
+
+// 2. store each word in a char array 
+for (int i = 0; i < words.Length; i++)
+{
+    string word = words[i];
+    char[] wordArray = word.ToCharArray();
+    Array.Reverse(wordArray);
+    string reversedWord = new string(wordArray);
+    Console.Write($"{reversedWord} ");
+}
+// 3. reverse the word in the char array 
+
+// 4. repeat this for all the words in the sentence.
