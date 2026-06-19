@@ -1,9 +1,11 @@
 ﻿string[] pallets = [ "B14", "A11", "B12", "A13" ];
 Console.WriteLine("");
 
-Console.WriteLine($"Before {pallets[0]} and {pallets[1]}");
-Array.Clear(pallets, 1, 3);
-Console.WriteLine($"After---{pallets[0]}---and---{pallets[1]}");
+Console.WriteLine($"Before {pallets[0].ToLower()} and {pallets[1].ToLower()}");
+Array.Clear(pallets, 0, 2);
+
+if (pallets[0] != null)
+    Console.WriteLine($"After---{pallets[0].ToLower()}---and---{pallets[1].ToLower()}");
 
 Console.WriteLine();
 Console.WriteLine($"Clearing 2 ... count: {pallets.Length}");
