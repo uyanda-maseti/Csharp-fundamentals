@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\bin\Debug\net10.0\ArrayMethods.exe
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\bin\Debug\net10.0\ArrayMethods.deps.json
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\bin\Debug\net10.0\ArrayMethods.runtimeconfig.json
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\bin\Debug\net10.0\ArrayMethods.dll
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\bin\Debug\net10.0\ArrayMethods.pdb
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\obj\Debug\net10.0\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\obj\Debug\net10.0\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\obj\Debug\net10.0\ArrayMethods.AssemblyInfo.cs
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\obj\Debug\net10.0\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\obj\Debug\net10.0\ArrayMethods.sourcelink.json
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\obj\Debug\net10.0\ArrayMethods.dll
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\obj\Debug\net10.0\refint\ArrayMethods.dll
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\obj\Debug\net10.0\ArrayMethods.pdb
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\obj\Debug\net10.0\ArrayMethods.genruntimeconfig.cache
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\ArrayMethods\obj\Debug\net10.0\ref\ArrayMethods.dll
