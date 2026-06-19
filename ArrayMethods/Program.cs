@@ -41,13 +41,13 @@ char[] valueArray = value.ToCharArray();
 // Console.WriteLine(valueArray);
 Array.Reverse(valueArray);
 // string result = new string(valueArray);
-string result = String.Join(",", valueArray);
+string result = String.Join("$", valueArray);
 Console.WriteLine(result);
 
-string[] items = result.Split(',');
-foreach (string item in items)
-{
-    Console.WriteLine(item);
-}
+// string[] items = result.Split(',');
+// foreach (string item in items)
+// {
+//     Console.WriteLine(item);
+// }
 
 
