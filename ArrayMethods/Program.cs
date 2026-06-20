@@ -63,8 +63,7 @@ for (int i = 0; i < words.Length; i++)
     char[] wordArray = word.ToCharArray();
     Array.Reverse(wordArray);
     string reversedWord = new string(wordArray);
+    
     Console.Write($"{reversedWord} ");
 }
-// 3. reverse the word in the char array 
 
-// 4. repeat this for all the words in the sentence.
