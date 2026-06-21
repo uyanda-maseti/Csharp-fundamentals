@@ -52,26 +52,36 @@
 
 // Reversing the words in a sentence challenge
 
-string pangram = "The quick brown fox jumps over the lazy dog";
+// string pangram = "The quick brown fox jumps over the lazy dog";
 
-// Step 1: split the sentence into words and store them in an array
-string[] message = pangram.Split(' ');
+// // Step 1: split the sentence into words and store them in an array
+// string[] message = pangram.Split(' ');
 
-//Step 2: now create a place to store the reversed words
-string[] newMessage = new string[message.Length];
+// //Step 2: now create a place to store the reversed words
+// string[] newMessage = new string[message.Length];
 
-// Step 3 using a for loop iterate through the message array and reverse each letter
-for (int i = 0; i < message.Length; i++)
+// // Step 3 using a for loop iterate through the message array and reverse each letter
+// for (int i = 0; i < message.Length; i++)
+// {
+//     char[] letters = message[i].ToCharArray();
+//     Array.Reverse(letters);
+//     newMessage[i] = new string(letters); // store in the empty array the reversed word
+// }
+
+// foreach (var item in newMessage)
+// {
+//     Console.WriteLine(item);
+// }
+// //Step 4
+// string result = String.Join(" ", newMessage);
+// Console.WriteLine(result);
+
+
+string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+
+string[] orderIDArray = orderStream.Split(',');
+
+foreach (var orderID in orderIDArray)
 {
-    char[] letters = message[i].ToCharArray();
-    Array.Reverse(letters);
-    newMessage[i] = new string(letters); // store in the empty array the reversed word
+    Console.WriteLine(orderID);
 }
-
-foreach (var item in newMessage)
-{
-    Console.WriteLine(item);
-}
-//Step 4
-string result = String.Join(" ", newMessage);
-Console.WriteLine(result);
