@@ -50,20 +50,29 @@
 //     Console.WriteLine(item);
 // }
 
+// Reversing the words in a sentence challenge
 
 string pangram = "The quick brown fox jumps over the lazy dog";
 
-// 1. store all the words of the sentence in an array
-string[] words = pangram.Split(' ');
+// Step 1: split the sentence into words and store them in an array
+string[] message = pangram.Split(' ');
 
-// 2. store each word in a char array 
-for (int i = 0; i < words.Length; i++)
+
+string[] newMessage = new string[message.Length];
+
+foreach (var item in newMessage)
 {
-    string word = words[i];
-    char[] wordArray = word.ToCharArray();
-    Array.Reverse(wordArray);
-    string reversedWord = new string(wordArray);
-    
-    Console.Write($"{reversedWord} ");
+    Console.WriteLine(item);
 }
 
+// // Step 3
+// for (int i = 0; i < message.Length; i++)
+// {
+//     char[] letters = message[i].ToCharArray();
+//     Array.Reverse(letters);
+//     newMessage[i] = new string(letters);
+// }
+
+// //Step 4
+// string result = String.Join(" ", newMessage);
+// Console.WriteLine(result);
