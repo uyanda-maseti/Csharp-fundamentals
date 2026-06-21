@@ -81,7 +81,7 @@ string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
 
 string[] orderIDArray = orderStream.Split(',');
 Array.Sort(orderIDArray);
-foreach (var orderID in orderIDArray)
+for (int i = 0; i < orderIDArray.Length; i++)
 {
-    Console.WriteLine(orderID);
+    Console.WriteLine(orderIDArray[i]);
 }
