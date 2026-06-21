@@ -78,18 +78,17 @@
 
 
 string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+string[] items = orderStream.Split(',');
+Array.Sort(items);
 
-string[] orderIDs = orderStream.Split(',');
-Array.Sort(orderIDs);
-for (int i = 0; i < orderIDs.Length; i++)
+foreach (var item in items)
 {
-    if (orderIDs[i].Length == 4)
+    if (item.Length == 4)
     {
-        Console.WriteLine(orderIDs[i]);
-    } 
+        Console.WriteLine(item);
+    }
     else
     {
-        Console.WriteLine($"{orderIDs[i]}    - Error");
+        Console.WriteLine(item + "\t- Error");
     }
-    
 }
