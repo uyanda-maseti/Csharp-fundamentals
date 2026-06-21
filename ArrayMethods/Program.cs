@@ -83,6 +83,13 @@ string[] orderIDs = orderStream.Split(',');
 Array.Sort(orderIDs);
 for (int i = 0; i < orderIDs.Length; i++)
 {
-    Console.WriteLine(orderIDs[i].Length);
+    if (orderIDs[i].Length == 4)
+    {
+        Console.WriteLine(orderIDs[i]);
+    } 
+    else
+    {
+        Console.WriteLine($"{orderIDs[i]}    - Error");
+    }
     
 }
