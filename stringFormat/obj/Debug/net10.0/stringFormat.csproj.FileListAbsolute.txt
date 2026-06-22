@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\bin\Debug\net10.0\stringFormat.exe
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\bin\Debug\net10.0\stringFormat.deps.json
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\bin\Debug\net10.0\stringFormat.runtimeconfig.json
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\bin\Debug\net10.0\stringFormat.dll
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\bin\Debug\net10.0\stringFormat.pdb
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\obj\Debug\net10.0\stringFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\obj\Debug\net10.0\stringFormat.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\obj\Debug\net10.0\stringFormat.AssemblyInfo.cs
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\obj\Debug\net10.0\stringFormat.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\obj\Debug\net10.0\stringFormat.sourcelink.json
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\obj\Debug\net10.0\stringFormat.dll
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\obj\Debug\net10.0\refint\stringFormat.dll
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\obj\Debug\net10.0\stringFormat.pdb
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\obj\Debug\net10.0\stringFormat.genruntimeconfig.cache
+C:\Users\User\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringFormat\obj\Debug\net10.0\ref\stringFormat.dll
