@@ -34,9 +34,15 @@
 // Console.WriteLine($"           Tax: {taxPercentage:P2}");
 // Console.WriteLine($"     Total Billed: {total:C}");
 
-string input = "Pad this";
-Console.WriteLine(input.PadLeft(12));
-Console.WriteLine(input.PadLeft(12,'-'));
-Console.WriteLine(input.PadRight(12,'-'));
+// string input = "Pad this";
+// Console.WriteLine(input.PadLeft(12));
+// Console.WriteLine(input.PadLeft(12,'-'));
+// Console.WriteLine(input.PadRight(12,'-'));
+
+string paymentId = "769C";
+
+var formattedLine = paymentId.PadRight(6,'-');
+
+Console.WriteLine(formattedLine);
 
 Console.WriteLine();
