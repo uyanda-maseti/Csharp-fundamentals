@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\bin\Debug\net10.0\stringMethods.exe
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\bin\Debug\net10.0\stringMethods.deps.json
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\bin\Debug\net10.0\stringMethods.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\bin\Debug\net10.0\stringMethods.dll
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\bin\Debug\net10.0\stringMethods.pdb
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\obj\Debug\net10.0\stringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\obj\Debug\net10.0\stringMethods.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\obj\Debug\net10.0\stringMethods.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\obj\Debug\net10.0\stringMethods.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\obj\Debug\net10.0\stringMethods.sourcelink.json
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\obj\Debug\net10.0\stringMethods.dll
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\obj\Debug\net10.0\refint\stringMethods.dll
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\obj\Debug\net10.0\stringMethods.pdb
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\obj\Debug\net10.0\stringMethods.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Bsc\Semester 1\Programming\Csharp-fundamentals\stringMethods\obj\Debug\net10.0\ref\stringMethods.dll
