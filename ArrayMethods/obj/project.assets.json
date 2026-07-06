@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Bsc\\Semester 1\\Programming\\Csharp-fundamentals\\ArrayMethods\\ArrayMethods.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documents\\Bsc\\Semester 1\\Programming\\Csharp-fundamentals\\ArrayMethods\\ArrayMethods.csproj",
       "projectName": "ArrayMethods",
-      "projectPath": "C:\\Users\\User\\Documents\\Bsc\\Semester 1\\Programming\\Csharp-fundamentals\\ArrayMethods\\ArrayMethods.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\Bsc\\Semester 1\\Programming\\Csharp-fundamentals\\ArrayMethods\\ArrayMethods.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Bsc\\Semester 1\\Programming\\Csharp-fundamentals\\ArrayMethods\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Documents\\Bsc\\Semester 1\\Programming\\Csharp-fundamentals\\ArrayMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
