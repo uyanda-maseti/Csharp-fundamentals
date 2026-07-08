@@ -2,8 +2,8 @@
 
 public class Book
 {
-    public string title { get; set;}
-    public string author { get; set;}
+    public string Title { get; set;}
+    public string Author { get; set;}
 
-    public int pages { get; set;}
+    public int Pages { get; set;}
 }
